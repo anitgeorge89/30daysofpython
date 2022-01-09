@@ -1,2 +1,4 @@
 # 30daysofpython
-Python generic 
+Python generic
+
+:) 
